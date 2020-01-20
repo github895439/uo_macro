@@ -1,0 +1,5 @@
+﻿//キーボードマクロのファイル
+S_ReplaceAll('\\x{0000}', '_', 6);	// すべて置換
+S_ReDraw(0);	// 再描画
+S_SelectAll(0);	// すべて選択
+S_SJIStoUTF8(0);	// SJIS→UTF-8コード変換
