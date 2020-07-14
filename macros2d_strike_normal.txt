@@ -1,0 +1,231 @@
+S 0 1 0
++O_p_e_n_ _S_t_a_t_u_s_
+########
+T 0 1 0
++O_p_e_n_ _C_h_a_t_
+########
+B 0 1 0
++O_p_e_n_ _M_a_g_e_S_p_e_l_l_b_o_o_k_
+########
+C 0 1 0
++W_a_r_/_P_e_a_c_e_ _
+########
+P 0 1 0
++O_p_e_n_ _P_a_p_e_r_d_o_l_l_
+########
+K 0 1 0
++O_p_e_n_ _S_k_i_l_l_s_
+########
+J 0 1 0
++O_p_e_n_ _J_o_u_r_n_a_l_
+########
+Q 0 1 0
++O_p_e_n_ _Q_u_e_s_t_L_o_g_
+########
+W 0 1 0
++O_p_e_n_ _S_p_e_l_l_W_e_a_v_i_n_g_S_p_e_l_l_b_o_o_k_
+########
+I 0 1 0
++O_p_e_n_ _B_a_c_k_p_a_c_k_
+########
+R 0 1 0
++O_p_e_n_ _O_v_e_r_v_i_e_w_
+########
+O 0 1 0
++O_p_e_n_ _C_o_n_f_i_g_u_r_a_t_i_o_n_
+########
+X 0 1 0
++Q_u_i_t_G_a_m_e_ _
+########
+Num 8 1 1 0
++S_a_y_ _F_o_r_w_a_r_d_
+########
+Num 5 1 1 0
++S_a_y_ _S_t_o_p_
+########
+Num 4 1 1 0
++S_a_y_ _T_u_r_n_ _L_e_f_t_
+########
+Num 6 1 1 0
++S_a_y_ _T_u_r_n_ _R_i_g_h_t_
+########
+Num 7 1 1 0
++S_a_y_ _L_e_f_t_
+########
+Num 9 1 1 0
++S_a_y_ _R_i_g_h_t_
+########
+Num 2 1 1 0
++S_a_y_ _B_a_c_k_w_a_r_d_s_
+########
+Num 8 1 0 0
++S_a_y_ _o_n_e_ _f_o_r_w_a_r_d_
+########
+Num 4 1 0 0
++S_a_y_ _o_n_e_ _l_e_f_t_
+########
+Num 6 1 0 0
++S_a_y_ _o_n_e_ _r_i_g_h_t_
+########
+Num 2 1 0 0
++S_a_y_ _o_n_e_ _b_a_c_k_
+########
+F1 0 0 0
++C_a_s_t_S_p_e_l_l_ _S_a_c_r_e_d_ _J_o_u_r_n_e_y_
+########
+F2 0 0 0
++D_e_l_a_y_ _1_
+########
+F3 0 0 0
++C_a_s_t_S_p_e_l_l_ _E_n_e_m_y_ _o_f_ _O_n_e_
+########
+F4 0 0 0
++C_a_s_t_S_p_e_l_l_ _A_r_c_h_ _C_u_r_e_
+########
+F5 0 0 0
++C_a_s_t_S_p_e_l_l_ _I_n_v_i_s_i_b_i_l_i_t_y_
+########
+F6 0 0 0
++C_a_s_t_S_p_e_l_l_ _A_n_i_m_a_l_ _F_o_r_m_
+########
+F7 0 0 0
++C_a_s_t_S_p_e_l_l_ _F_i_r_e_b_a_l_l_
+########
+F8 0 0 0
++C_a_s_t_S_p_e_l_l_ _F_l_a_m_e_ _S_t_r_i_k_e_
+########
+F9 0 0 0
++C_a_s_t_S_p_e_l_l_ _T_e_l_e_p_o_r_t_
+########
+F10 0 0 0
++L_a_s_t_S_k_i_l_l_ _
+########
+F11 0 0 0
++C_a_s_t_S_p_e_l_l_ _M_a_s_s_ _D_i_s_p_e_l_
+########
+F12 0 0 0
++C_a_s_t_S_p_e_l_l_ _E_n_e_r_g_y_ _V_o_r_t_e_x_
+########
+1 1 0 0
++Y_e_l_l_ _g_u_a_r_d_s_
+########
+2 1 0 0
++Y_e_l_l_ _a_l_l_ _f_o_l_l_o_w_ _m_e_
+########
+3 1 0 0
++Y_e_l_l_ _a_l_l_ _k_i_l_l_
+########
+4 1 0 0
++Y_e_l_l_ _a_l_l_ _s_t_a_y_
+########
+5 1 0 0
++Y_e_l_l_ _a_l_l_ _g_u_a_r_d_ _m_e_
+########
+6 1 0 0
++Y_e_l_l_ _g_u_a_r_d_s_
+########
+7 1 0 0
++Y_e_l_l_ _g_u_a_r_d_s_
+########
+8 1 0 0
++O_p_e_n_ _C_h_a_t_
+########
+9 1 0 0
++Y_e_l_l_ _l_u_m_ _l_u_m_ _l_u_m_
+########
+0 1 0 0
++Y_e_l_l_ _g_u_a_r_d_s_
+########
+Z 1 0 0
++T_a_r_g_e_t_S_e_l_f_ _
+########
+X 1 0 0
++U_s_e_S_k_i_l_l_ _H_i_d_i_n_g_
+########
+C 1 0 0
++E_q_u_i_p_L_a_s_t_W_e_a_p_o_n_ _
+########
+V 1 0 0
++C_a_s_t_S_p_e_l_l_ _C_l_e_a_n_s_e_ _b_y_ _F_i_r_e_
+########
+B 1 0 0
++D_e_l_a_y_ _1_
+########
+A 1 0 0
++L_a_s_t_T_a_r_g_e_t_ _
+########
+S 1 0 0
++C_a_s_t_S_p_e_l_l_ _L_i_g_h_t_n_i_n_g_ _S_t_r_i_k_e_
+########
+D 1 0 0
++S_e_l_e_c_t_N_e_a_r_e_s_t_ _H_o_s_t_i_l_e_
++A_t_t_a_c_k_S_e_l_e_c_t_e_d_T_a_r_g_e_t_ _
+########
+F 1 0 0
++C_a_s_t_S_p_e_l_l_ _C_l_o_s_e_ _W_o_u_n_d_s_
+########
+G 1 0 0
++D_e_l_a_y_ _1_
+########
+W 1 0 0
++P_r_i_m_a_r_y_A_b_i_l_i_t_y_ _
+########
+E 1 0 0
++S_e_c_o_n_d_a_r_y_A_b_i_l_i_t_y_ _
+########
+R 1 0 0
++O_p_e_n_ _P_a_p_e_r_d_o_l_l_
+########
+T 1 0 0
++C_a_s_t_S_p_e_l_l_ _C_o_n_s_e_c_r_a_t_e_ _W_e_a_p_o_n_
+########
+F1 1 0 0
++A_l_l_N_a_m_e_s_ _
+########
+F2 1 0 0
++T_a_r_g_e_t_S_y_s_t_e_m_O_n_/_O_f_f_ _
+########
+F3 1 0 0
++T_o_g_g_l_e_B_u_f_f_I_c_o_n_W_i_n_d_o_w_ _
+########
+F4 1 0 0
++D_e_l_a_y_ _1_
+########
+F5 1 0 0
++B_o_w_ _
+########
+F6 1 0 0
++S_a_l_u_t_e_ _
+########
+F7 1 0 0
+########
+F8 1 0 0
+########
+F9 1 0 0
+########
+F10 1 0 0
++P_a_s_t_e_ _
+########
+F11 1 0 0
++L_a_s_t_S_k_i_l_l_ _
+########
+F12 1 0 0
++Y_e_l_l_ _b_a_n_k_ _c_r_o_s_s_
++Y_e_l_l_ _r_e_c_s_u_ _r_e_c_d_u_
++Y_e_l_l_ _c_l_a_i_m_ _l_i_s_t_
++Y_e_l_l_ _o_m_ _o_m_ _o_m_
+########
+Z 1 1 0
++I_n_v_o_k_e_V_i_r_t_u_e_ _H_o_n_o_r_
+########
+X 1 1 0
++I_n_v_o_k_e_V_i_r_t_u_e_ _S_a_c_r_i_f_i_c_e_
+########
+Z 0 1 0
++L_a_s_t_O_b_j_e_c_t_ _
+########
+A 0 1 0
++L_a_s_t_O_b_j_e_c_t_ _
++W_a_i_t_F_o_r_T_a_r_g_ _
++L_a_s_t_T_a_r_g_e_t_ _
+########
