@@ -71,13 +71,13 @@ Num 2 1 0 0
 +S_a_y_ _o_n_e_ _b_a_c_k_
 ########
 F1 0 0 0
-+C_a_s_t_S_p_e_l_l_ _S_a_c_r_e_d_ _J_o_u_r_n_e_y_
++C_a_s_t_S_p_e_l_l_ _R_e_c_a_l_l_
 ########
 F2 0 0 0
 +D_e_l_a_y_ _1_
 ########
 F3 0 0 0
-+C_a_s_t_S_p_e_l_l_ _C_l_e_a_n_s_e_ _b_y_ _F_i_r_e_
++C_a_s_t_S_p_e_l_l_ _C_u_r_e_
 ########
 F4 0 0 0
 +C_a_s_t_S_p_e_l_l_ _A_r_c_h_ _C_u_r_e_
@@ -174,7 +174,6 @@ E 1 0 0
 +S_e_c_o_n_d_a_r_y_A_b_i_l_i_t_y_ _
 ########
 R 1 0 0
-+O_p_e_n_ _P_a_p_e_r_d_o_l_l_
 ########
 T 1 0 0
 +C_a_s_t_S_p_e_l_l_ _D_i_s_p_e_l_ _F_i_e_l_d_
